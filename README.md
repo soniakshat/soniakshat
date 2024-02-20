@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Akshat Soni! 👋
+# Hello, I'm Akshat Soni! 👋 <br />
 
-## About Me
-🎓 I'm pursuing a Master's in Applied Computing at the University of Windsor.
-🎮 With 2 years of experience as a Unity Game Developer, I am passionate about building immersive gaming experiences.
-🛠️ I love DIY projects and am always eager to learn and explore new technologies.
-🍿 I enjoy watching movies.
+## About Me <br />
+🎓 I'm pursuing a Master's in Applied Computing at the University of Windsor. <br />
+🎮 With 2 years of experience as a Unity Game Developer, I am passionate about building immersive gaming experiences. <br />
+🛠️ I love DIY projects and am always eager to learn and explore new technologies. <br />
+🍿 I enjoy watching movies. <br />
 
 <!--
 ## Projects
@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 - **Project Name 1**: Description - [View Repository](#)
 - **Project Name 2**: Description - [View Repository](#)
+-->
 
+## Skills <br />
+- Unity <br />
+- C# <br />
+- Game Design <br />
+- Unity VR  <br />
 
-## Skills
-- Unity
-- C#
-- Game Design
-- Unity VR 
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/akshat--soni/) 
-- [Email](mailto:hi@akshatsoni.in)
+## Connect with Me <br />
+- [LinkedIn](https://www.linkedin.com/in/akshat--soni/)  <br />
+- [Email](mailto:hi@akshatsoni.in) <br />
 
 <!--
 Remember to replace placeholders with your actual information and links to your projects and profiles. Good luck with your studies and projects! 😊
