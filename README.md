@@ -42,6 +42,23 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <h1 align="center">⚡ Stats ⚡</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniakshat&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="soniakshat" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soniakshat&theme=material-palenight&" alt="soniakshat" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakshat&show_icons=true&theme=material-palenight&locale=en" alt="soniakshat" /></p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakshat&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniakshat&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="soniakshat">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=soniakshat">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soniakshat&theme=material-palenight&" alt="soniakshat">
+</picture>
+</p>
+
+<p>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soniakshat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakshat&show_icons=true&theme=material-palenight&locale=en" alt="soniakshat">
+</picture>
+</p>
