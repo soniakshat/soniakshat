@@ -1,4 +1,4 @@
-<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1714608000&v=beta&t=FRPyB4wdGLSgwd2_xsZy_7FNJ9GZLYBRw0hPkyMI53w" />
+<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1724284800&v=beta&t=uP2qxUBcZS6ta6NeLEgTvAgHeM6lI6xsxAfEdupyUns" />
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Akshat Soni</h1>
