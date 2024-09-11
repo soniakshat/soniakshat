@@ -1,4 +1,4 @@
-<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1724284800&v=beta&t=uP2qxUBcZS6ta6NeLEgTvAgHeM6lI6xsxAfEdupyUns" />
+<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1731542400&v=beta&t=q3AmxjmEf8hi4bizIBZ4ot37lybSgWiHlzAYMpUjHfM" />
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Akshat Soni</h1>
@@ -46,19 +46,5 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakshat&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniakshat&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="soniakshat">
-</picture>
-</p>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=soniakshat">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soniakshat&theme=material-palenight&" alt="soniakshat">
-</picture>
-</p>
-
-<p>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soniakshat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakshat&show_icons=true&theme=material-palenight&locale=en" alt="soniakshat">
 </picture>
 </p>
