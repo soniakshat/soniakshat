@@ -1,4 +1,4 @@
-<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1738800000&v=beta&t=_zri-uydt-x1CRbUsRwL-xSwF1OPV12Jd36gkJocVh0" />
+<img align="center" alt="LinkedIn Banner" width="100%" src="https://akshatsoni.com/images/banner.png" />
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Akshat Soni</h1>
